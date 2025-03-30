@@ -4,23 +4,30 @@
 
 *ayu Dark* for the editor, *ayu Mirage* for UI, and extra tweaks for better visibility.
 
+
 ## Screenshots
 
 ![Normal Preview](assets/preview-normal.png)
+
 ![Extend Preview](assets/preview-extend.png)
 
-> - Icon used: [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-> - Font used: [D2Coding](https://github.com/naver/d2codingfont)
+> - IDE: [Windsurf](https://codeium.com/windsurf)
+> - Font: [JetBrains Mono](https://www.jetbrains.com/lp/mono)
+> - Icon Theme: [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+> - Other extensions shown: **[Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)**, [Background](https://marketplace.visualstudio.com/items?itemName=Katsute.code-background), [Blockman](https://marketplace.visualstudio.com/items?itemName=leodevbro.blockman), [Comment Anchors](https://marketplace.visualstudio.com/items?itemName=ExodiusStudios.comment-anchors)
+
 
 ## Development
 
 Same as [vscode-ayu](https://github.com/ayu-theme/vscode-ayu#development)
+
 
 ## Note
 
 - This extension does **not contain** *ayu icon theme*.
 - This isn't a theme maintained by the original [vscode Ayu](https://github.com/ayu-theme/vscode-ayu) author nor original [ayu theme](https://github.com/dempfi/ayu) author.
 - Enhancement of syntax highlighting is not planned for now, but any suggestions or PRs are welcomed!
+
 
 ### Why yet another ayu fork?
 
