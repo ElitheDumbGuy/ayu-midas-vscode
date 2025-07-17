@@ -1,5 +1,5 @@
 {
-	"type": "dark",
+	"type": "highContrast",
 	"colors": {
 		"focusBorder": "#e6b45099",
 		"foreground": "#8a9199",
