@@ -1,13 +1,13 @@
 {
 	"name": "ayu-midas",
-	"displayName": "ayu MiDas",
-	"description": "ayu Dark + ayu Mirage + extra tweaks",
-	"version": "1.1.0",
-	"publisher": "qyurila",
+	"displayName": "Clearer Ayu",
+	"description": "Clearer Ayu",
+	"version": "1.0",
+	"publisher": "Eli",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/QyuriLa/vscode-ayu-midas"
+		"url": "https://github.com/ElitheDumbGuy/clearer-ayu"
 	},
 	"engines": {
 		"vscode": "^1.63.0"
@@ -20,12 +20,12 @@
 		"dark-theme",
 		"ayu"
 	],
-	"homepage": "https://github.com/QyuriLa/vscode-ayu-midas",
+	"homepage": "https://github.com/ElitheDumbGuy/clearer-ayu",
 	"icon": "assets/logo.png",
 	"contributes": {
 		"themes": [
 			{
-				"label": "ayu MiDas",
+				"label": "Ayu",
 				"uiTheme": "vs-dark",
 				"path": "./ayu-midas.json"
 			}
